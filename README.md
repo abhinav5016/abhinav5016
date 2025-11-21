@@ -1,19 +1,19 @@
 👋 Hi, I'm Abhinav
- Python developer focused on AI, automation, and backend development.
+ • Python developer focused on AI, automation, and backend development.
 
 🧠 What I do
- Build Python scripts & tools
- Work with APIs
- Create small AI models and utilities
- Explore machine learning & data processing
+• Build Python scripts & tools
+• Work with APIs
+• Create small AI models and utilities
+• Explore machine learning & data processing
 
 🚀 Current Work
- Developing my own AI assistance & projects
+• Developing my own AI assistance & projects
 
 🎯 Goals
- To become an advanced AI engineer and create meaningful tools that help people.
+ •To become an advanced AI engineer and create meaningful tools that help people.
 
 📬 Contact
- Email: abhinav25106@gmail.com
- Instagram: https://www.instagram.com/abnv.xxz
- LinkedIn: https://linkedin.com/in/abhinav-%E3%85%A4-089b89314
+• Email: abhinav25106@gmail.com
+• Instagram: https://www.instagram.com/abnv.xxz
+• LinkedIn: https://linkedin.com/in/abhinav-%E3%85%A4-089b89314
