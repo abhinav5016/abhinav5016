@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Abhinav
+ Python developer focused on AI, automation, and backend development.
 
-<!--
-**abhinav5016/abhinav5016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 What I do
+ Build Python scripts & tools
+ Work with APIs
+ Create small AI models and utilities
+ Explore machine learning & data processing
 
-Here are some ideas to get you started:
+🚀 Current Work
+ Developing my own AI assistance & projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals
+ To become an advanced AI engineer and create meaningful tools that help people.
+
+📬 Contact
+ Email: abhinav25106@gmail.com
+ Instagram: https://www.instagram.com/abnv.xxz
+ LinkedIn: https://linkedin.com/in/abhinav-%E3%85%A4-089b89314
