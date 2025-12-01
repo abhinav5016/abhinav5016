@@ -14,6 +14,6 @@
  •To become an advanced AI engineer and create meaningful tools that help people.
 
 📬 Contact
-• Email: abhinav25106@gmail.com
+• Email: abhinavkmanoj.dev@gmail.com
 • Instagram: https://www.instagram.com/abnv.xxz
 • LinkedIn: https://linkedin.com/in/abhinav-%E3%85%A4-089b89314
